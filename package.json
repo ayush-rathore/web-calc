@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ayush-rathore/web-calc/issues"
   },
-  "homepage": "https://github.com/ayush-rathore/web-calc#readme"
+  "homepage": "https://github.com/ayush-rathore/web-calc#readme",
+  "dependencies": {
+    "surge": "^0.23.0"
+  }
 }
