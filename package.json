@@ -1,5 +1,19 @@
 {
-  "dependencies": {
-    "surge": "^0.23.0"
-  }
+  "name": "web-calc",
+  "version": "1.0.0",
+  "description": "Calculator Web App",
+  "main": "calc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ayush-rathore/web-calc.git"
+  },
+  "author": "Ayush Rathore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ayush-rathore/web-calc/issues"
+  },
+  "homepage": "https://github.com/ayush-rathore/web-calc#readme"
 }
